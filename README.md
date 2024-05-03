@@ -1,7 +1,7 @@
-# dnd5tools
-Searchable index of all things fifth edition... eventually.
+# 5e
+Searchable index of about all things fifth edition.
 
-Just check out http://radai.github.io/dnd5tools to give a test run.
+Just check out http://minecraftpublisher.github.io/5e to give a test run.
 It searches classes, races, feats, spells, items, and monsters, and give a rough dump of info into a card of sorts.
 It'll get cleaned up one day, but the functionality is growing.
 
